@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UIControlsDemo</string>
+    <string name="button1">左</string>
+    <string name="button2">右</string>
+    <string name="testTop">Display</string>
+    <string name="switchs">开关</string>
+    <string name="button3">确认</string>
+    <string name="et_hint">请输入数字</string>
+    <string name="radiobutton1">方形</string>
+    <string name="radiobutton2">圆形</string>
+    <string name="imageView">iamge</string>
+    <string name="checkbox1">语文</string>
+    <string name="checkbox2">数学</string>
+    <string name="checkbox3">英语</string>
+</resources>
