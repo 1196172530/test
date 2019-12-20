@@ -18,6 +18,8 @@ import android.widget.Switch;
 import android.widget.TextView;
 import android.widget.Toast;
 
+
+
 public class MainActivity extends AppCompatActivity {
     TextView display;
     Button btnLeft,btnRight,btnOk;
@@ -27,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
     RadioGroup radioGroup;
     ImageView imageView;
     SeekBar seekBar;
+
     CheckBox checkBoxYW,checkBoxSX,checkBoxYY;
     RatingBar ratingBar;
     String yw = "";
